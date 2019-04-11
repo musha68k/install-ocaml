@@ -54,7 +54,7 @@
     On macOS (using Homebrew):
 
     #+BEGIN_SRC bash
-    brew install -y opam m4
+    brew install opam m4
     #+END_SRC
 
     Or, if you prefer not to use Homebrew, you can download a binary directly
